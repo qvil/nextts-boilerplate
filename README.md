@@ -18,11 +18,12 @@ Check it [Branch](https://github.com/qvil/nextts-boilerplate/branches). Based on
 ### Branch(Feature) List
 
 - [x] master: Basic, Plain with typescript.
+- [x] feature/all - All features
 - [x] feature/styled-components
 - [ ] feature/redux
 - [ ] feature/environment_variables
 - [ ] feature/cookie
-- [ ] feature/error(Error boundaries)
+- [ ] feature/error - Error boundaries
 - [ ] feature/user_agent
 
 ### Example
