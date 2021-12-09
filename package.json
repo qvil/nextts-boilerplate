@@ -4,7 +4,7 @@
   "description": "Light and choosable Next.js boilerplate with Typescript.",
   "main": "index.js",
   "dependencies": {
-    "next": "^9.0.6",
+    "next": "^11.1.3",
     "react": "^16.9.0",
     "react-dom": "^16.9.0"
   },
